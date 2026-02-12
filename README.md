@@ -9,7 +9,7 @@ https://riyamishra237.github.io/My-project/
 
 ## Features
 * **Responsive Design:** Optimized for both Desktop and mobile views.
-* **About me:** Detailed insights into my careeer goals and journey.
+* **About me:** Detailed insights into my career goals and journey.
 * **Certificates:** Showcasing my technical achievements.
 * **Contact section:** Easy way to reach out for collaborations.
 
