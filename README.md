@@ -23,4 +23,4 @@ https://riyamishra237.github.io/My-project/
 * 'contact.html'- Professional contact form
 
   ---
-  *Created by Riya Mishra
+  ## Created by Riya Mishra
